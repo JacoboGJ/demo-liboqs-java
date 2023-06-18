@@ -1,0 +1,14 @@
+target/
+dependency-reduced-pom.xml
+openam-ui/openam-ui-ria/npm-debug.log.*
+
+# Editor generated files
+*.iml
+.idea/
+.classpath
+.settings
+.project
+test-output
+.DS_Store
+bin/
+*.versionsBackup

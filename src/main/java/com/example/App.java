@@ -16,7 +16,7 @@ import java.nio.file.Paths;
 import java.util.Base64;
 
 /**
- * Hello world!
+ * App fos testing liboqs java wrapper to sign and verify post quantum safe signatures
  *
  */
 public class App 
